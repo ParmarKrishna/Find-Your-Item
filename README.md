@@ -1,6 +1,7 @@
 # Hackout21
-This project is part of Hackout'21. 
-#Team Members :
+This project is part of Hackout'21.
+<hr>
+<h2>Team Members :</h2>
 <p>Sarthak Patel</p>
 <p>Meet Sable</p>
 <p><a href="https://github.com/ParmarKrishna">Krishna Parmar</a></p>
