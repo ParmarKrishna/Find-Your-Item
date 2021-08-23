@@ -1,4 +1,4 @@
-# Hackout21
+# Hackout'21
 This project is part of Hackout'21.
 <hr>
 <h2>Team Members :</h2>
