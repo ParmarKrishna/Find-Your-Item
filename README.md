@@ -1,7 +1,6 @@
-# Hackout'21
-This project is part of Hackout'21.
+#Find-Your-Item
 <hr>
-<h2>Team Members :</h2>
+<h2>Contributors :</h2>
 <p><a href="https://github.com/sarthakhp">Sarthak Patel</a></p>
 <p><a href="https://github.com/MeetSable">Meet Sable</a></p>
 <p><a href="https://github.com/ParmarKrishna">Krishna Parmar</a></p>
