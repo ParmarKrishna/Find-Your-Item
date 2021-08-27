@@ -1,5 +1,5 @@
-#Find-Your-Item
-<hr>
+# Find-Your-Item
+
 <h2>Contributors :</h2>
 <p><a href="https://github.com/sarthakhp">Sarthak Patel</a></p>
 <p><a href="https://github.com/MeetSable">Meet Sable</a></p>
